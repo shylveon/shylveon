@@ -1,1 +1,1 @@
-compsci student
+student
